@@ -1,2 +1,2 @@
 # BukkMaratonJava
-BukkMaraton // Java // 2022.12.19.
+BukkMaraton // Java // 2022.10.21. INFORMATIKAI ISMERETEK KÖZÉPSZINTŰ GYAKORLATI VIZSGA 
